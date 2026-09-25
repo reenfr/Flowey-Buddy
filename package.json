@@ -1,0 +1,29 @@
+{
+  "name": "plant-buddy",
+  "version": "1.0.0",
+  "description": "A Plant Buddy App Built with Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sh3rqxs/plant-buddy.git"
+  },
+  "keywords": [
+    "tutorial",
+    "plants",
+    "electron-app"
+  ],
+  "author": "sh3rqxs",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sh3rqxs/plant-buddy/issues"
+  },
+  "homepage": "https://github.com/sh3rqxs/plant-buddy#readme",
+  "devDependencies": {
+    "electron": "^42.11.8",
+    "electron-reload": "^2.0.0-alpha.1"
+  }
+}
