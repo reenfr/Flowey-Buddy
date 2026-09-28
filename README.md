@@ -1,3 +1,3 @@
 Original belongs to https://github.com/sh3rqxs
 
-just a lil something i tweaked to gift someone special! thats why this is private!
+Cross-platform Electron desktop app that simulates a virtual plant with water and sunlight mechanics, mood-based sprites, and native OS notifications.
